@@ -20,8 +20,8 @@
     "url": "https://github.com/OleksandrKrupko/heroku-deploy/issues"
   },
   "homepage": "https://github.com/OleksandrKrupko/heroku-deploy#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {}
 }
